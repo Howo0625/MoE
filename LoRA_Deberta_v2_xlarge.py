@@ -43,7 +43,7 @@ def log_memory(stage=""):
         f.write(line + "\n")
 
 # ========== 1. parameters setting ==========
-BATCH_SIZE = 32
+BATCH_SIZE = 16
 EPOCHS = 3
 LR = 2e-5
 MAX_LEN = 128
