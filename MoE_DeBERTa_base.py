@@ -48,7 +48,7 @@ def log_memory(stage=""):
 
 # ================== 2. setting paramerters ==================
 
-BATCH_SIZE = 64
+BATCH_SIZE = 16
 EPOCHS = 3
 LR = 2e-5
 MAX_LEN = 128
