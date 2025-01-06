@@ -1,0 +1,7 @@
+torch==2.4.1+cu124
+transformers==4.45.2
+datasets==3.0.1
+scikit-learn==1.5.2
+tqdm==4.66.5
+psutil==5.9.5       
+nvidia-ml-py3==7.352.0   
